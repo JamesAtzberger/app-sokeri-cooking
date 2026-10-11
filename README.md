@@ -10,6 +10,9 @@ The app was developed for finding healthy recipes that are easy to cook.
 
 You can try out the app by clicking here [[link]](https://jamesatzberger.github.io/app-sokeri-cooking/index.html).
 
+Video explaining how our app works:
+[[video]](https://www.youtube.com/watch?v=7J4sZgmWNfc).
+
 ## More Details 
 
 You can sort by food types, amount of fat or sugar, and other filters. 
@@ -41,4 +44,5 @@ I hope you enjoy!
 <br>
 
 Please try out the app by clicking here [[link]](https://jamesatzberger.github.io/app-sokeri-cooking/index.html).
+
 
